@@ -14,13 +14,8 @@ The data used for this was the list of ethereum transactions over a period of ti
 This is an example of an output produced after running wedgecentric.py on a very small portion of data:
 
 (address, number of triangles it created through transactions)
-
 '0xa5d863a936614903c3e5c9434559b8a994fd6b2a', 152
-
 '0x3143e1cabc3547acde8b630e0dea3b1dfebb3cb0', 145
-
 '0x86c9981b0d85e1cd6f42b10b8305ffd88f64f55e', 115
-
 '0x75a931567048edd4f349fa1a1cfbc4b4dca352c9', 79
-
 '0x4df812f6064def1e5e029f1ca858777cc98d2d81', 52
